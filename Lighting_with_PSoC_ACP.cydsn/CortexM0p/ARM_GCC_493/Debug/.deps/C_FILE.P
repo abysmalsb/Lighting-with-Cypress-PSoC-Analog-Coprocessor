@@ -1,0 +1,164 @@
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/CortexM0p/ARM_GCC_493/Debug/main.o : D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_FILTER.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_IRQ.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_intSarClock.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_intUabClock.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Configuration.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Control.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Filter.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_ISR.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Processing.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_RegisterMap.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Sensing.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_SensingCSD_LL.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Structure.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Tuner.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Clock_12M.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Clock_1K.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Clock_200.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyDMA.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyFlash.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyLFClk.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyLib.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_BLUE.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_BLUE_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_GREEN.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_RED.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_STRIP.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_STRIP_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/MIC_ANALOG.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/MIC_ANALOG_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Millis_Update_Timer.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Millis_Update_Timer_Int.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PIRAmplifierStage1.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PIRAmplifierStage2.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PIRAmplifierStage2_PVT.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/POT_PIN.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/POT_PIN_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PVref.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PWM_LED_Strip.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_AmpOut.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_AmpOut_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PGAIn.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PGAIn_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIR.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIRRef.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIRRef_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIR_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_Vref.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_Vref_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/RefBuffer.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Switch_Off_Timer.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Switch_Off_Timer_Int.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_BOOT.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_PINS.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_PVT.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_rx.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_tx.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cmsis_armcc.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cmsis_gcc.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cm0plus.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cmFunc.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cmInstr.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cyPm.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cydevice_trm.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cydisabledsheets.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cyfitter.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cypins.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cytypes.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/project.h D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/main.c 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_FILTER.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_IRQ.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_intSarClock.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/ADC_intUabClock.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Configuration.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Control.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Filter.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_ISR.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Processing.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_RegisterMap.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Sensing.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_SensingCSD_LL.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Structure.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CSD_Tuner.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Clock_12M.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Clock_1K.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Clock_200.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_BLUE.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_BLUE_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_GREEN.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_RED.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_STRIP.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/LED_STRIP_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/MIC_ANALOG.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/MIC_ANALOG_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Millis_Update_Timer.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Millis_Update_Timer_Int.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PIRAmplifierStage1.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PIRAmplifierStage2.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PIRAmplifierStage2_PVT.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/POT_PIN.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/POT_PIN_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PVref.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/PWM_LED_Strip.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_AmpOut.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_AmpOut_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PGAIn.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PGAIn_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIR.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIRRef.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIRRef_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_PIR_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_Vref.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Pin_Vref_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/RefBuffer.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Switch_Off_Timer.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/Switch_Off_Timer_Int.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cm0plus.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/Generated_Source/PSoC4/project.h : 
+
+D:/Dolgaim/MCU/Cypress\ PSoC/Git/Lighting_with_PSoC_ACP.cydsn/main.c : 
+

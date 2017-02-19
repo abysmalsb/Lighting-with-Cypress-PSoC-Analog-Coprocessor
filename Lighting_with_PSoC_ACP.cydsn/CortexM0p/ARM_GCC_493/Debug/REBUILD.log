@@ -1,0 +1,19 @@
+--------------- Rebuild Started: 01/28/2017 22:11:04 Project: main.c, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
+arm-none-eabi-gcc.exe -mcpu=cortex-m0plus -mthumb -Wno-main -I. -IGenerated_Source\PSoC4 -Wa,-alh=.\CortexM0p\ARM_GCC_493\Debug/main.lst -g -D DEBUG -Wall -ffunction-sections -Og -ffat-lto-objects -c .\main.c -o .\CortexM0p\ARM_GCC_493\Debug\main.o
+.\main.c: In function 'Button_Int_Handler':
+.\main.c:18:5: warning: implicit declaration of function 'Timer_Start_Pin_Write' [-Wimplicit-function-declaration]
+     Timer_Start_Pin_Write(1);
+     ^
+.\main.c:44:5: warning: implicit declaration of function 'Button_Int_ClearInterrupt' [-Wimplicit-function-declaration]
+     Button_Int_ClearInterrupt();
+     ^
+.\main.c: In function 'Timer_Int_Handler':
+.\main.c:52:5: warning: implicit declaration of function 'Timer_Int_ClearInterrupt' [-Wimplicit-function-declaration]
+     Timer_Int_ClearInterrupt(TIMER_INTR_MASK_CC_MATCH);
+     ^
+.\main.c:52:30: error: 'TIMER_INTR_MASK_CC_MATCH' undeclared (first use in this function)
+     Timer_Int_ClearInterrupt(TIMER_INTR_MASK_CC_MATCH);
+                              ^
+.\main.c:52:30: note: each undeclared identifier is reported only once for each function it appears in
+The command 'arm-none-eabi-gcc.exe' failed with exit code '1'.
+--------------- Rebuild Failed: 01/28/2017 22:11:08 ---------------

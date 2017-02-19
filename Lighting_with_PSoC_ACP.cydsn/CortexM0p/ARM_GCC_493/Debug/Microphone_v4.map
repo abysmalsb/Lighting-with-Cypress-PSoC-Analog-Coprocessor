@@ -1,0 +1,2328 @@
+Archive member included because of file (symbol)
+
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o (cyfitter_cfg)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (LED_BLUE_Write)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (LED_GREEN_Write)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (LED_RED_Write)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (PWM_LED_Strip_WriteCompare)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (UART_Start)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o) (UART_UartInit)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o) (CyEnterCriticalSection)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o) (CyIntEnable)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o) (CySysClkWcoEnabled)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (ADC_StartConvert)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (ADC_InputsPlacement)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (ADC_ISR)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (ADC_intSarClock_SetFractionalDividerRegister)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (ADC_IRQ_StartEx)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (PIRAmplifierStage1_Start)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (RefBuffer_Start)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (PVref_Enable)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (PIRAmplifierStage2_Start)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (Switch_Off_Timer_Int_StartEx)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (Switch_Off_Timer_ClearInterrupt)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (Awake_Timer_Int_StartEx)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (Awake_Timer_ClearInterrupt)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (MIC_DIGITAL_ClearInterrupt)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (Millis_Update_Timer_Start)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (Millis_Update_Timer_Int_StartEx)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o) (UART_SpiUartReadRxData)
+.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o) (CySysFlashSetWaitCycles)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o) (__aeabi_uidiv)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (__aeabi_idiv)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_aeabi_ldivmod.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (__aeabi_ldivmod)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_muldi3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (__aeabi_lmul)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_fadd)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_fdiv)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o) (__aeabi_fmul)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(fixsfsi.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_f2iz)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsisf.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_i2f)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(adddf3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_dadd)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_dmul)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsidf.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_i2d)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_f2d)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(truncdfsf2.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (__aeabi_d2f)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o) (__clzsi2)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o) (__divdi3)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o) (__udivdi3)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzdi2.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o) (__clzdi2)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o (__errno)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o) (memcpy)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+                              .\CortexM0p\ARM_GCC_493\Debug\main.o (sprintf)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memchr)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memmove)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+switchedOn          0x4               .\CortexM0p\ARM_GCC_493\Debug\main.o
+micDetectionThreshold
+                    0x4               .\CortexM0p\ARM_GCC_493\Debug\main.o
+ADC_countsPer10Volt
+                    0xc               .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ADC_offset          0x6               .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+averageSilenceAudioLevel
+                    0x4               .\CortexM0p\ARM_GCC_493\Debug\main.o
+audioWindow         0x50              .\CortexM0p\ARM_GCC_493\Debug\main.o
+firstClap           0x4               .\CortexM0p\ARM_GCC_493\Debug\main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text          0x00000000       0x78 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .text.MIC_DIGITAL_Handler
+                0x00000000       0x40 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .text._exit    0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .text.LED_BLUE_SetDriveMode
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .text.LED_BLUE_ReadDataReg
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .text.LED_BLUE_SetInterruptMode
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .text.LED_BLUE_ClearInterrupt
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .text.LED_GREEN_SetDriveMode
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .text.LED_GREEN_Read
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .text.LED_GREEN_ReadDataReg
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .text.LED_GREEN_SetInterruptMode
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .text.LED_GREEN_ClearInterrupt
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .text.LED_RED_SetDriveMode
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .text.LED_RED_Read
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .text.LED_RED_ReadDataReg
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .text.LED_RED_SetInterruptMode
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .text.LED_RED_ClearInterrupt
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_Stop
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetQDMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPrescaler
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetOneShot
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPWMMode
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPWMSyncKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPWMStopOnKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPWMDeadTime
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPWMInvert
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadCounter
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetCounterMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadPeriod
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetCompareSwap
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_WritePeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadPeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetPeriodSwap
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_WriteCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadCapture
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadCaptureBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetCaptureMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetReloadMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetStartMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetStopMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetCountMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ReadStatus
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_GetInterruptSourceMasked
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_GetInterruptSource
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_ClearInterrupt
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text.PWM_LED_Strip_SetInterrupt
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .text.UART_ScbModeStop
+                0x00000000        0x8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .text.UART_Stop
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .text.UART_SetRxFifoLevel
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .text.UART_SetTxFifoLevel
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartStop
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartSetRxAddress
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartSetRxAddressMask
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartGetChar
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartGetByte
+                0x00000000       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartSetRtsPolarity
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartSetRtsFifoLevel
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartPutCRLF
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartEnableCts
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartDisableCts
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .text.UART_UartSetCtsPolarity
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .bss           0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysClkImoStart
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysClkImoStop
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysClkWriteHfclkDirect
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysClkGetSysclkSource
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysClkWriteSysclkDiv
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysClkWriteHfclkDiv
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysGetResetReason
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyDisableInts
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyEnableInts
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntGetState
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntDisable
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntSetPending
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntClearPending
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntSetSysVector
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntGetSysVector
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntGetVector
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyIntGetPriority
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySoftwareReset
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyDelayFreq
+                0x00000000       0x4c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickStop
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickEnableInterrupt
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickEnable
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickDisableInterrupt
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickSetReload
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickGetReload
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickGetValue
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickSetClockSource
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickGetCountFlag
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickServiceCallbacks
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickClear
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickInit
+                0x00000000       0x4c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickStart
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickSetCallback
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysTickGetCallback
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CyGetUniqueId
+                0x00000000       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysSetRamAccessArbPriority
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysSetFlashAccessArbPriority
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysSetDmacAccessArbPriority
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysSetPeripheralAccessArbPriority
+                0x00000000       0x4c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbSetGlobalVrefSource
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbSetBgGain
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbSetGlobalVrefVoltage
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbEnableDeepsleepVddaRef
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbDisableDeepsleepVddaRef
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbEnableVddaRef
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbDisableVddaRef
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbSetBgBufferTrim
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text.CySysPrbGetBgBufferTrim
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkIloStart
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkIloStop
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkIloStartMeasurement
+                0x00000000       0x34 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkIloStopMeasurement
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkIloCompensate
+                0x00000000      0x108 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkWcoStart
+                0x00000000       0x40 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkWcoStop
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkWcoSetPowerMode
+                0x00000000       0x4c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkWcoClockOutSelect
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtGetEnabledStatus
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtEnable
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtSetMatch
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtGetMatch
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtGetCount
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtSetIgnoreBits
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtGetIgnoreBits
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtClearInterrupt
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtMaskInterrupt
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtUnmaskInterrupt
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtSetInterruptCallback
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtGetInterruptCallback
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysWdtIsr
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetEnabledStatus
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerSetMode
+                0x00000000       0x44 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetMode
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerSetClearOnMatch
+                0x00000000       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetClearOnMatch
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerEnable
+                0x00000000       0x3c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerDisable
+                0x00000000       0x3c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerSetCascade
+                0x00000000       0x34 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetCascade
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerSetMatch
+                0x00000000       0x58 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerSetToggleBit
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetToggleBit
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetMatch
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetCount
+                0x00000000       0x3c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetInterruptSource
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerSetInterruptCallback
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerGetInterruptCallback
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerEnableIsr
+                0x00000000       0x34 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerDisableIsr
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerResetCounters
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerDelayUntilMatch
+                0x00000000       0x6c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysTimerDelay
+                0x00000000       0x3c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .rodata        0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_IsChannelSigned
+                0x00000000       0x58 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_Stop
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetConvertMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetEosMask
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetChanMask
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_GetResult32
+                0x00000000       0x3c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetLowLimit
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetHighLimit
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetLimitMask
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetSatMask
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetOffset
+                0x00000000       0x34 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SetGain
+                0x00000000       0x34 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_CountsTo_Volts
+                0x00000000       0xb8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_CountsTo_mVolts
+                0x00000000       0xcc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_CountsTo_uVolts
+                0x00000000       0xb0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_StartEx
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_SelectConfig
+                0x00000000       0x54 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text.ADC_StopConvert
+                0x00000000       0x44 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .text.ADC_intSarClock_StartEx
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .text.ADC_intSarClock_Stop
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .text.ADC_intSarClock_GetDividerRegister
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .text.ADC_intSarClock_GetFractionalDividerRegister
+                0x00000000        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_Interrupt
+                0x00000000        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_SetVector
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_GetVector
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_SetPriority
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_GetPriority
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_Enable
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_GetState
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_Disable
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_Start
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_StartEx
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_Stop
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_SetPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text.ADC_IRQ_ClearPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .text.PIRAmplifierStage1_Stop
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .text.PIRAmplifierStage1_SetPower
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .text.PIRAmplifierStage1_PumpControl
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .text.RefBuffer_Stop
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .text.RefBuffer_SetPower
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .text.RefBuffer_PumpControl
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .text.PVref_Stop
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .text.PVref_SetTap
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .text.PVref_SetVRefSrc
+                0x00000000       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .text.PIRAmplifierStage2_Stop
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .text.PIRAmplifierStage2_SetPower
+                0x00000000       0x7c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .text.PIRAmplifierStage2_PumpControl
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_Interrupt
+                0x00000000        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_GetVector
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_GetPriority
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_GetState
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_Start
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_Stop
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_SetPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text.Switch_Off_Timer_Int_ClearPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .bss           0x00000000        0x1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_Stop
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetQDMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPrescaler
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetOneShot
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPWMMode
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPWMSyncKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPWMStopOnKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPWMDeadTime
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPWMInvert
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_WriteCounter
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadCounter
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetCounterMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_WritePeriod
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadPeriod
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetCompareSwap
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_WritePeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadPeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetPeriodSwap
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_WriteCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_WriteCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadCapture
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadCaptureBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetCaptureMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetReloadMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetStartMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetStopMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetCountMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_TriggerCommand
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_Enable
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_ReadStatus
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetInterruptMode
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_Init
+                0x00000000       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_Start
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_GetInterruptSourceMasked
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_GetInterruptSource
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text.Switch_Off_Timer_SetInterrupt
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_Interrupt
+                0x00000000        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_GetVector
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_GetPriority
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_GetState
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_Start
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_Stop
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_SetPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text.Awake_Timer_Int_ClearPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .bss           0x00000000        0x1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_Stop
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetQDMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPrescaler
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetOneShot
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPWMMode
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPWMSyncKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPWMStopOnKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPWMDeadTime
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPWMInvert
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_WriteCounter
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadCounter
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetCounterMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_WritePeriod
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadPeriod
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetCompareSwap
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_WritePeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadPeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetPeriodSwap
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_WriteCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_WriteCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadCapture
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadCaptureBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetCaptureMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetReloadMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetStartMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetStopMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetCountMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_TriggerCommand
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_Enable
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_ReadStatus
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetInterruptMode
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_Init
+                0x00000000       0x34 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_Start
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_GetInterruptSourceMasked
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_GetInterruptSource
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text.Awake_Timer_SetInterrupt
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text.MIC_DIGITAL_SetDriveMode
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text.MIC_DIGITAL_Write
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text.MIC_DIGITAL_Read
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text.MIC_DIGITAL_ReadDataReg
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text.MIC_DIGITAL_SetInterruptMode
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text.MIC_DIGITAL_ClearInterrupt
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_Stop
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetQDMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPrescaler
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetOneShot
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPWMMode
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPWMSyncKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPWMStopOnKill
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPWMDeadTime
+                0x00000000       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPWMInvert
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadCounter
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetCounterMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadPeriod
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetCompareSwap
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_WritePeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadPeriodBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetPeriodSwap
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_WriteCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadCompare
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_WriteCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadCompareBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadCapture
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadCaptureBuf
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetCaptureMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetReloadMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetStartMode
+                0x00000000       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetStopMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetCountMode
+                0x00000000       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_ReadStatus
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_GetInterruptSourceMasked
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_GetInterruptSource
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text.Millis_Update_Timer_SetInterrupt
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_Interrupt
+                0x00000000        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_GetVector
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_GetPriority
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_GetState
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_Start
+                0x00000000       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_Stop
+                0x00000000       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_SetPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text.Millis_Update_Timer_Int_ClearPending
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .bss           0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartReadRxData
+                0x00000000        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartGetRxBufferSize
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartClearRxBuffer
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartPutArray
+                0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartGetTxBufferSize
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartClearTxBuffer
+                0x00000000       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartDisableIntRx
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text.UART_SpiUartDisableIntTx
+                0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .text          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .data          0x00000000        0x0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .bss           0x00000000       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .text.CySysFlashClockBackup
+                0x00000000       0x54 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .text.CySysFlashClockConfig
+                0x00000000       0x44 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .text.CySysFlashClockRestore
+                0x00000000       0x54 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .text.CySysFlashWriteRow
+                0x00000000       0xf4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0x48 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_aeabi_ldivmod.o)
+ .text          0x00000000       0x54 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_muldi3.o)
+ .text          0x00000000       0x6c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+ .text          0x00000000      0x264 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+ .rodata        0x00000000       0x40 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(adddf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(adddf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsidf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsidf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(truncdfsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .text          0x00000000      0x1f0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .text          0x00000000      0x158 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .text          0x00000000       0x18 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzdi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzdi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x40 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x108 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00008000         xr
+ram              0x20000000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+START GROUP
+LOAD .\CortexM0p\ARM_GCC_493\Debug\main.o
+LOAD .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+LOAD .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+LOAD .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+                0x00000000                CY_APPL_ORIGIN = 0x0
+                0x00000080                CY_FLASH_ROW_SIZE = 0x80
+                0x00000001                CY_APPL_NUM = 0x1
+                0x00000001                CY_APPL_MAX = 0x1
+                0x00000040                CY_METADATA_SIZE = 0x40
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000000                CY_CHECKSUM_EXCLUDE_SIZE = ALIGN (0x0, CY_FLASH_ROW_SIZE)
+                0x00000000                CY_APP_FOR_STACK_AND_COPIER = 0x0
+                0x20000220                PROVIDE (__cy_heap_start, _end)
+                0x00000001                PROVIDE (__cy_region_num, ((__cy_regions_end - __cy_regions) / 0x10))
+                0x20001000                PROVIDE (__cy_stack, (ORIGIN (ram) + 0x1000))
+                0x20000c00                PROVIDE (__cy_heap_end, (__cy_stack - 0x400))
+
+.cybootloader   0x00000000        0x0
+ *(.cybootloader)
+                0x00000000                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
+                0x00003f80                appl2_start = (appl1_start + ALIGN ((((0x8000 - appl1_start) - (0x2 * CY_FLASH_ROW_SIZE)) / 0x2), CY_FLASH_ROW_SIZE))
+                0x00000000                appl_start = (CY_APPL_NUM == 0x1)?appl1_start:appl2_start
+                0x00000001                cy_project_type_bootloader = (appl_start == 0x0)?0x1:0x0
+                0x00000000                cy_project_type_app_for_stack_and_copier = (CY_APP_FOR_STACK_AND_COPIER == 0x1)?0x1:0x0
+
+.text           0x00000000     0x3472
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
+ *(.romvectors)
+ .romvectors    0x00000000       0x10 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x00000000                RomVectors
+                0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
+                0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
+                0x00000010                PROVIDE (__cy_reset, Reset)
+ *(.text.Reset)
+ .text.Reset    0x00000010        0xc .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x00000010                Reset
+                0x00000001                ASSERT ((. != __cy_reset), No reset code)
+ *(.psocinit)
+ .psocinit      0x0000001c      0x1c0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+                0x00000120                cyfitter_cfg
+                0x000001dc                . = MAX (., 0x100)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x000001dc       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text.Awake_Timer_Handler
+                0x0000023c       0x14 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x0000023c                Awake_Timer_Handler
+ .text.Switch_Off_Timer_Handler
+                0x00000250       0x28 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x00000250                Switch_Off_Timer_Handler
+ .text.Millis_Update_Timer_Handler
+                0x00000278       0x18 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x00000278                Millis_Update_Timer_Handler
+ .text.addNewReading
+                0x00000290       0x7c .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x00000290                addNewReading
+ .text.getIntegrate
+                0x0000030c       0x1c .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x0000030c                getIntegrate
+ .text.calculateAVGSilenceSignal
+                0x00000328       0x50 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x00000328                calculateAVGSilenceSignal
+ .text.InitResources
+                0x00000378       0x74 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x00000378                InitResources
+ .text.main     0x000003ec       0xbc .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x000003ec                main
+ .text.IntDefaultHandler
+                0x000004a8        0x4 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x000004a8                IntDefaultHandler
+ .text._sbrk    0x000004ac       0x30 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x000004ac                _sbrk
+ .text.Start_c  0x000004dc       0x48 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x000004dc                Start_c
+ .text.initialize_psoc
+                0x00000524       0x48 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x00000524                initialize_psoc
+ .text.SetAnalogRoutingPumps
+                0x0000056c       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+                0x0000056c                SetAnalogRoutingPumps
+ .text.AnalogSetDefault
+                0x0000058c       0xcc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .text.LED_BLUE_Write
+                0x00000658       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+                0x00000658                LED_BLUE_Write
+ .text.LED_BLUE_Read
+                0x00000670       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+                0x00000670                LED_BLUE_Read
+ .text.LED_GREEN_Write
+                0x00000680       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+                0x00000680                LED_GREEN_Write
+ .text.LED_RED_Write
+                0x00000698       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+                0x00000698                LED_RED_Write
+ .text.PWM_LED_Strip_WriteCounter
+                0x000006b0       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x000006b0                PWM_LED_Strip_WriteCounter
+ .text.PWM_LED_Strip_WritePeriod
+                0x000006c0       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x000006c0                PWM_LED_Strip_WritePeriod
+ .text.PWM_LED_Strip_WriteCompare
+                0x000006d0       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x000006d0                PWM_LED_Strip_WriteCompare
+ .text.PWM_LED_Strip_TriggerCommand
+                0x000006e0       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x000006e0                PWM_LED_Strip_TriggerCommand
+ .text.PWM_LED_Strip_Enable
+                0x000006fc       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x000006fc                PWM_LED_Strip_Enable
+ .text.PWM_LED_Strip_SetInterruptMode
+                0x00000720        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x00000720                PWM_LED_Strip_SetInterruptMode
+ .text.PWM_LED_Strip_Init
+                0x0000072c       0x44 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x0000072c                PWM_LED_Strip_Init
+ .text.PWM_LED_Strip_Start
+                0x00000770       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x00000770                PWM_LED_Strip_Start
+ .text.UART_ScbModePostEnable
+                0x00000790        0x8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .text.UART_Init
+                0x00000798        0x8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+                0x00000798                UART_Init
+ .text.UART_Enable
+                0x000007a0       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+                0x000007a0                UART_Enable
+ .text.UART_Start
+                0x000007b8       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+                0x000007b8                UART_Start
+ .text.UART_UartInit
+                0x000007d8       0xa4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+                0x000007d8                UART_UartInit
+ .text.UART_UartPostEnable
+                0x0000087c       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+                0x0000087c                UART_UartPostEnable
+ .text.UART_UartPutString
+                0x000008a8       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+                0x000008a8                UART_UartPutString
+ .text          0x000008c0       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+                0x000008c0                CyDelayCycles
+                0x000008d2                CyEnterCriticalSection
+                0x000008da                CyExitCriticalSection
+ .text.CySysClkImoDisableWcoLock
+                0x000008e0       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x000008e0                CySysClkImoDisableWcoLock
+ .text.CySysClkImoGetWcoLock
+                0x000008f4       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x000008f4                CySysClkImoGetWcoLock
+ .text.CyIntEnable
+                0x00000908       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00000908                CyIntEnable
+ .text.CyHalt   0x0000091c        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x0000091c                CyHalt
+ .text.CyIntSetVector
+                0x00000920       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00000920                CyIntSetVector
+ .text.CyIntSetPriority
+                0x00000944       0x4c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00000944                CyIntSetPriority
+ .text.CyDelay  0x00000990       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00000990                CyDelay
+ .text.CySysClkImoEnableWcoLock
+                0x000009c0       0xcc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x000009c0                CySysClkImoEnableWcoLock
+ .text.CySysClkWriteImoFreq
+                0x00000a8c       0xd8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00000a8c                CySysClkWriteImoFreq
+ .text.CyDelayUs
+                0x00000b64       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00000b64                CyDelayUs
+ .text.CySysClkGetTimerSource
+                0x00000b78       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .text.CySysClkWcoEnabled
+                0x00000b88       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                0x00000b88                CySysClkWcoEnabled
+ .text.CySysWdtDisable
+                0x00000b9c       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                0x00000b9c                CySysWdtDisable
+ .text.CySysClkSetTimerSource
+                0x00000bac       0x68 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                0x00000bac                CySysClkSetTimerSource
+ .text.CySysTimerClearInterrupt
+                0x00000c14       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                0x00000c14                CySysTimerClearInterrupt
+ .text.CySysTimerIsr
+                0x00000c44       0xa4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                0x00000c44                CySysTimerIsr
+ .text.ADC_InitConfig
+                0x00000ce8      0x100 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000ce8                ADC_InitConfig
+ .text.ADC_StartConvert
+                0x00000de8       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000de8                ADC_StartConvert
+ .text.ADC_IsEndConversion
+                0x00000e10       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000e10                ADC_IsEndConversion
+ .text.ADC_GetResult16
+                0x00000e48       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000e48                ADC_GetResult16
+ .text.ADC_Init
+                0x00000e74      0x130 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000e74                ADC_Init
+ .text.ADC_Enable
+                0x00000fa4       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000fa4                ADC_Enable
+ .text.ADC_Start
+                0x00000fd4       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x00000fd4                ADC_Start
+ .text.ADC_ISR  0x00000ff8        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+                0x00000ff8                ADC_ISR
+ .text.ADC_intSarClock_SetFractionalDividerRegister
+                0x00001004       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+                0x00001004                ADC_intSarClock_SetFractionalDividerRegister
+ .text.PIRAmplifierStage1_Init
+                0x00001024       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+                0x00001024                PIRAmplifierStage1_Init
+ .text.PIRAmplifierStage1_Enable
+                0x00001050       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+                0x00001050                PIRAmplifierStage1_Enable
+ .text.PIRAmplifierStage1_Start
+                0x0000106c       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+                0x0000106c                PIRAmplifierStage1_Start
+ .text.RefBuffer_Init
+                0x0000108c       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+                0x0000108c                RefBuffer_Init
+ .text.RefBuffer_Enable
+                0x000010b8       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+                0x000010b8                RefBuffer_Enable
+ .text.RefBuffer_Start
+                0x000010d4       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+                0x000010d4                RefBuffer_Start
+ .text.PVref_Init
+                0x000010f4       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+                0x000010f4                PVref_Init
+ .text.PVref_Enable
+                0x00001110       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+                0x00001110                PVref_Enable
+ .text.PVref_Start
+                0x00001120       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+                0x00001120                PVref_Start
+ .text.PIRAmplifierStage2_Enable
+                0x00001140       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                0x00001140                PIRAmplifierStage2_Enable
+ .text.PIRAmplifierStage2_SetGain
+                0x0000115c       0x7c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                0x0000115c                PIRAmplifierStage2_SetGain
+ .text.PIRAmplifierStage2_Init
+                0x000011d8       0x4c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                0x000011d8                PIRAmplifierStage2_Init
+ .text.PIRAmplifierStage2_Start
+                0x00001224       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                0x00001224                PIRAmplifierStage2_Start
+ .text.Switch_Off_Timer_Int_SetVector
+                0x00001244        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                0x00001244                Switch_Off_Timer_Int_SetVector
+ .text.Switch_Off_Timer_Int_SetPriority
+                0x00001250       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                0x00001250                Switch_Off_Timer_Int_SetPriority
+ .text.Switch_Off_Timer_Int_Enable
+                0x00001270       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                0x00001270                Switch_Off_Timer_Int_Enable
+ .text.Switch_Off_Timer_Int_Disable
+                0x00001280       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                0x00001280                Switch_Off_Timer_Int_Disable
+ .text.Switch_Off_Timer_Int_StartEx
+                0x00001290       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                0x00001290                Switch_Off_Timer_Int_StartEx
+ .text.Switch_Off_Timer_ClearInterrupt
+                0x000012ac        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+                0x000012ac                Switch_Off_Timer_ClearInterrupt
+ .text.Awake_Timer_Int_SetVector
+                0x000012b8        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                0x000012b8                Awake_Timer_Int_SetVector
+ .text.Awake_Timer_Int_SetPriority
+                0x000012c4       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                0x000012c4                Awake_Timer_Int_SetPriority
+ .text.Awake_Timer_Int_Enable
+                0x000012e8       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                0x000012e8                Awake_Timer_Int_Enable
+ .text.Awake_Timer_Int_Disable
+                0x000012f8       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                0x000012f8                Awake_Timer_Int_Disable
+ .text.Awake_Timer_Int_StartEx
+                0x00001308       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                0x00001308                Awake_Timer_Int_StartEx
+ .text.Awake_Timer_ClearInterrupt
+                0x00001324        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+                0x00001324                Awake_Timer_ClearInterrupt
+ .text.Millis_Update_Timer_WriteCounter
+                0x00001330       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x00001330                Millis_Update_Timer_WriteCounter
+ .text.Millis_Update_Timer_WritePeriod
+                0x00001340       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x00001340                Millis_Update_Timer_WritePeriod
+ .text.Millis_Update_Timer_TriggerCommand
+                0x00001350       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x00001350                Millis_Update_Timer_TriggerCommand
+ .text.Millis_Update_Timer_Enable
+                0x0000136c       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x0000136c                Millis_Update_Timer_Enable
+ .text.Millis_Update_Timer_SetInterruptMode
+                0x00001390        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x00001390                Millis_Update_Timer_SetInterruptMode
+ .text.Millis_Update_Timer_Init
+                0x0000139c       0x2c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x0000139c                Millis_Update_Timer_Init
+ .text.Millis_Update_Timer_Start
+                0x000013c8       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x000013c8                Millis_Update_Timer_Start
+ .text.Millis_Update_Timer_ClearInterrupt
+                0x000013e8        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x000013e8                Millis_Update_Timer_ClearInterrupt
+ .text.Millis_Update_Timer_Int_SetVector
+                0x000013f4        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                0x000013f4                Millis_Update_Timer_Int_SetVector
+ .text.Millis_Update_Timer_Int_SetPriority
+                0x00001400       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                0x00001400                Millis_Update_Timer_Int_SetPriority
+ .text.Millis_Update_Timer_Int_Enable
+                0x00001420       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                0x00001420                Millis_Update_Timer_Int_Enable
+ .text.Millis_Update_Timer_Int_Disable
+                0x00001430       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                0x00001430                Millis_Update_Timer_Int_Disable
+ .text.Millis_Update_Timer_Int_StartEx
+                0x00001440       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                0x00001440                Millis_Update_Timer_Int_StartEx
+ .text.UART_SpiUartWriteTxData
+                0x0000145c       0x1c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+                0x0000145c                UART_SpiUartWriteTxData
+ .text.CySysFlashSetWaitCycles
+                0x00001478       0x54 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+                0x00001478                CySysFlashSetWaitCycles
+ .text          0x000014cc      0x120 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x000014cc                __aeabi_uidiv
+                0x000014cc                __udivsi3
+                0x000015d8                __aeabi_uidivmod
+ .text          0x000015ec      0x1e0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                0x000015ec                __divsi3
+                0x000015ec                __aeabi_idiv
+                0x000017b8                __aeabi_idivmod
+ .text          0x000017cc        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x000017cc                __aeabi_idiv0
+                0x000017cc                __aeabi_ldiv0
+ .text          0x000017d0      0x2f8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o)
+                0x000017d0                __aeabi_fadd
+ .text          0x00001ac8      0x270 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+                0x00001ac8                __aeabi_fdiv
+ .text          0x00001d38       0x40 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(fixsfsi.o)
+                0x00001d38                __aeabi_f2iz
+ .text          0x00001d78       0x90 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsisf.o)
+                0x00001d78                __aeabi_i2f
+ .text          0x00001e08      0x650 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(adddf3.o)
+                0x00001e08                __aeabi_dadd
+ .text          0x00002458      0x534 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+                0x00002458                __aeabi_dmul
+ .text          0x0000298c       0x78 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsidf.o)
+                0x0000298c                __aeabi_i2d
+ .text          0x00002a04       0xa8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+                0x00002a04                __aeabi_f2d
+ .text          0x00002aac      0x120 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(truncdfsf2.o)
+                0x00002aac                __aeabi_d2f
+ .text          0x00002bcc       0x3c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+                0x00002bcc                __clzsi2
+ .text.__errno  0x00002c08        0xc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                0x00002c08                __errno
+ .text.__libc_init_array
+                0x00002c14       0x4c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                0x00002c14                __libc_init_array
+ .text.memcpy   0x00002c60       0x12 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                0x00002c60                memcpy
+ *fill*         0x00002c72        0x2 
+ .text.sprintf  0x00002c74       0x44 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+                0x00002c74                siprintf
+                0x00002c74                sprintf
+ .text.__ssputs_r
+                0x00002cb8       0xc0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x00002cb8                __ssputs_r
+ .text._svfprintf_r
+                0x00002d78      0x1ec c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x00002d78                _svfiprintf_r
+                0x00002d78                _svfprintf_r
+ .text._printf_common
+                0x00002f64       0xdc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00002f64                _printf_common
+ .text._printf_i
+                0x00003040      0x230 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00003040                _printf_i
+ .text.memchr   0x00003270       0x16 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+                0x00003270                memchr
+ .text.memmove  0x00003286       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+                0x00003286                memmove
+ *fill*         0x000032ae        0x2 
+ .text._free_r  0x000032b0       0x8c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+                0x000032b0                _free_r
+ .text._malloc_r
+                0x0000333c       0xb0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000333c                _malloc_r
+ .text._realloc_r
+                0x000033ec       0x4c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+                0x000033ec                _realloc_r
+ .text._sbrk_r  0x00003438       0x24 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+                0x00003438                _sbrk_r
+ .text._malloc_usable_size_r
+                0x0000345c       0x16 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+                0x0000345c                _malloc_usable_size_r
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.bootloader)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+
+.v4_bx          0x00003474        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00003474        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x00003474        0x4
+ *(.eh_frame)
+ .eh_frame      0x00003474        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .eh_frame      0x00003474        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+                0x00003478                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00003478                __exidx_end = .
+
+.rodata         0x00003478      0x1f8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x00003478       0x1c .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .rodata        0x00003494       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x00003494                cyImoFreqMhz2DpllOffset
+ .rodata        0x000034ac        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .rodata        0x000034b8       0x44 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+                0x000034b8                ADC_InputsPlacement
+                0x000034c4                ADC_allConfigs
+ .rodata        0x000034fc       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                0x000034fc                PIRAmplifierStage2_compTab
+ .rodata        0x00003544       0x80 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+ .rodata        0x000035c4       0x40 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+ .rodata.str1.1
+                0x00003604        0x2 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00003606       0x11 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x00003617       0x22 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000363c                . = ALIGN (0x4)
+ *fill*         0x00003639        0x3 
+ *(.init)
+ .init          0x0000363c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x0000363c                _init
+ .init          0x00003640        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x00003648                . = ALIGN (0x4)
+                0x00003648                __preinit_array_start = .
+ *(.preinit_array)
+                0x00003648                __preinit_array_end = .
+                0x00003648                . = ALIGN (0x4)
+                0x00003648                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00003648        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .init_array    0x0000364c        0x4 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x00003650                __init_array_end = .
+                0x00003650                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00003650        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x00003650                _fini
+ .fini          0x00003654        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x0000365c                . = ALIGN (0x4)
+                0x0000365c                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x0000365c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00003660                __fini_array_end = .
+                0x00003660                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00003660                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00003660                . = ALIGN (0x4)
+                0x00003660                __cy_regions = .
+                0x00003660        0x4 LONG 0x3670 __cy_region_init_ram
+                0x00003664        0x4 LONG 0x200000b0 __cy_region_start_data
+                0x00003668        0x4 LONG 0x80 __cy_region_init_size_ram
+                0x0000366c        0x4 LONG 0xf0 __cy_region_zero_size_ram
+                0x00003670                __cy_regions_end = .
+                0x00003670                . = ALIGN (0x8)
+                0x00003670                _etext = .
+
+.cy_checksum_exclude
+                0x00003670        0x0
+ *(.cy_checksum_exclude)
+
+.ramvectors     0x20000000       0xa4
+                0x20000000                __cy_region_start_ram = .
+ *(.ramvectors)
+ .ramvectors    0x20000000       0xa4 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                0x20000000                CyRamVectors
+
+.noinit         0x200000a8        0x4
+ *(.noinit)
+ .noinit        0x200000a8        0x4 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+
+.data           0x200000b0       0x80 load address 0x00003670
+                0x200000b0                __cy_region_start_data = .
+ *(.jcr)
+ .jcr           0x200000b0        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .jcr           0x200000b0        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x200000b4        0x4 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .data          0x200000b8       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                0x200000b8                cydelay32kMs
+                0x200000bc                cydelayFreqKhz
+                0x200000c0                cydelayFreqMhz
+                0x200000c4                cydelayFreqHz
+ .data          0x200000c8        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .data.impure_data
+                0x200000cc       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x2000012c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                0x2000012c                _impure_ptr
+                0x20000130                . = ALIGN (0x8)
+ *(.ram)
+                0x20000130                _edata = .
+
+.igot.plt       0x20000130        0x0 load address 0x000036f0
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.bss            0x20000130       0xf0 load address 0x000036f0
+                0x20000130                PROVIDE (__bss_start__, .)
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x20000130       0x1c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .bss           0x2000014c        0x8 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x2000014c                millis
+                0x20000150                arrayIndex
+ .bss           0x20000154        0x1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                0x20000154                PWM_LED_Strip_initVar
+ *fill*         0x20000155        0x1 
+ .bss           0x20000156        0x4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+                0x20000156                UART_initVar
+                0x20000158                UART_IntrTxMask
+ *fill*         0x2000015a        0x2 
+ .bss           0x2000015c       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .bss           0x20000174        0xc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x2000017c                ADC_initVar
+                0x2000017d                ADC_selected
+ .bss           0x20000180        0x8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+                0x20000184                PIRAmplifierStage1_initVar
+ .bss           0x20000188        0x8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+                0x2000018c                RefBuffer_initVar
+ .bss           0x20000190        0x1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+                0x20000190                PVref_initVar
+ *fill*         0x20000191        0x3 
+ .bss           0x20000194        0x8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                0x20000194                PIRAmplifierStage2_internalGainPower
+                0x20000198                PIRAmplifierStage2_initVar
+ .bss           0x2000019c        0x1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                0x2000019c                Millis_Update_Timer_initVar
+ *fill*         0x2000019d        0x3 
+ .bss.__malloc_sbrk_start
+                0x200001a0        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x200001a0                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200001a4        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x200001a4                __malloc_free_list
+ *(COMMON)
+ COMMON         0x200001a8       0x60 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                0x200001a8                switchedOn
+                0x200001ac                micDetectionThreshold
+                0x200001b0                averageSilenceAudioLevel
+                0x200001b4                audioWindow
+                0x20000204                firstClap
+ COMMON         0x20000208       0x12 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                0x20000208                ADC_countsPer10Volt
+                0x20000214                ADC_offset
+ *fill*         0x2000021a        0x2 
+ COMMON         0x2000021c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+                0x2000021c                errno
+                0x20000220                . = ALIGN (0x8)
+ *(.ram.b)
+                0x20000220                _end = .
+                0x20000220                __end = .
+                0x20000220                PROVIDE (end, .)
+                0x20000220                PROVIDE (__bss_end__, .)
+                0x00003670                __cy_region_init_ram = LOADADDR (.data)
+                0x00000080                __cy_region_init_size_ram = (_edata - ADDR (.data))
+                0x000000f0                __cy_region_zero_size_ram = (_end - _edata)
+
+.heap           0x20000220       0x80 load address 0x000036f0
+                0x20000220                . = _end
+                0x200002a0                . = (. + 0x80)
+ *fill*         0x20000220       0x80 
+                0x200002a0                __cy_heap_limit = .
+
+.stack          0x20000c00      0x400
+                0x20000c00                __cy_stack_limit = .
+                0x20001000                . = (. + 0x400)
+ *fill*         0x20000c00      0x400 
+                0x00000001                ASSERT ((__cy_stack_limit >= __cy_heap_limit), region RAM overflowed with stack)
+                0x00000000                cy_checksum_exclude_size = (CY_APPL_LOADABLE == 0x1)?SIZEOF (.cy_checksum_exclude):0x0
+                0x00000001                ASSERT ((cy_checksum_exclude_size <= CY_CHECKSUM_EXCLUDE_SIZE), CY_BOOT: Section .cy_checksum_exclude size exceedes specified limit.)
+                0x00007fc0                cyloadermeta_start = (cy_project_type_bootloader || cy_project_type_app_for_stack_and_copier)?(0x8000 - CY_METADATA_SIZE):0xf0000000
+
+.cyloadermeta
+ *(.cyloadermeta)
+                0x00007fc0                cyloadablemeta_start = cy_project_type_app_for_stack_and_copier?((0x8000 - CY_FLASH_ROW_SIZE) - CY_METADATA_SIZE):((0x8000 - (CY_FLASH_ROW_SIZE * (CY_APPL_NUM - 0x1))) - CY_METADATA_SIZE)
+
+.cyloadablemeta
+ *(.cyloadablemeta)
+
+.cyflashprotect
+                0x90400000       0x20
+ *(.cyflashprotect)
+ .cyflashprotect
+                0x90400000       0x20 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+                0x90400000                cy_meta_flashprotect
+
+.cymeta         0x90500000        0xc
+ *(.cymeta)
+ .cymeta        0x90500000        0xc .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+                0x90500000                cy_metadata
+
+.cychipprotect  0x90600000        0x4
+ *(.cychipprotect)
+ .cychipprotect
+                0x90600000        0x4 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+                0x90600000                cy_meta_chipprotect
+
+.rel.dyn        0x000036f0        0x0 load address 0x90600004
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000     0x1128
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x60 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_aranges
+                0x00000060       0x18 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .debug_aranges
+                0x00000078       0x48 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_aranges
+                0x000000c0       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_aranges
+                0x000000f8       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_aranges
+                0x00000140       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_aranges
+                0x00000188       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_aranges
+                0x000001d0      0x158 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_aranges
+                0x00000328       0x58 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_aranges
+                0x00000380       0x88 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_aranges
+                0x00000408       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .debug_aranges
+                0x00000428      0x1e8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_aranges
+                0x00000610      0x1a8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_aranges
+                0x000007b8       0xe0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_aranges
+                0x00000898       0x18 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .debug_aranges
+                0x000008b0       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .debug_aranges
+                0x000008d0       0x40 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_aranges
+                0x00000910       0x80 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_aranges
+                0x00000990       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_aranges
+                0x000009d8       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_aranges
+                0x00000a20       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_aranges
+                0x00000a68       0x50 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_aranges
+                0x00000ab8       0x80 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_aranges
+                0x00000b38      0x158 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_aranges
+                0x00000c90       0x80 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_aranges
+                0x00000d10      0x158 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_aranges
+                0x00000e68       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_aranges
+                0x00000eb0      0x158 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_aranges
+                0x00001008       0x80 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_aranges
+                0x00001088       0x60 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_aranges
+                0x000010e8       0x40 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7f31
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x7bf .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_info    0x000007bf       0xfe .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .debug_info    0x000008bd      0x38b .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_info    0x00000c48      0x1ef .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_info    0x00000e37      0x19d .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_info    0x00000fd4      0x19d .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_info    0x00001171      0x19d .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_info    0x0000130e      0x903 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_info    0x00001c11      0x227 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_info    0x00001e38      0x369 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_info    0x000021a1       0x8c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .debug_info    0x0000222d      0xdd5 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_info    0x00003002      0xd04 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_info    0x00003d06      0xa15 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_info    0x0000471b      0x1ac .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .debug_info    0x000048c7       0xc4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .debug_info    0x0000498b      0x166 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_info    0x00004af1      0x300 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_info    0x00004df1      0x17c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_info    0x00004f6d      0x17c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_info    0x000050e9      0x15e .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_info    0x00005247      0x202 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_info    0x00005449      0x300 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_info    0x00005749      0x8f1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_info    0x0000603a      0x300 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_info    0x0000633a      0x8f1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_info    0x00006c2b      0x19d .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_info    0x00006dc8      0x8ef .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_info    0x000076b7      0x300 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_info    0x000079b7      0x219 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_info    0x00007bd0      0x361 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.debug_abbrev   0x00000000     0x24d2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x210 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_abbrev  0x00000210       0x5d .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .debug_abbrev  0x0000026d      0x1f7 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_abbrev  0x00000464      0x10d .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_abbrev  0x00000571       0xc8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_abbrev  0x00000639       0xc8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_abbrev  0x00000701       0xc8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_abbrev  0x000007c9      0x133 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_abbrev  0x000008fc       0xd5 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_abbrev  0x000009d1      0x14c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_abbrev  0x00000b1d       0x14 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .debug_abbrev  0x00000b31      0x236 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_abbrev  0x00000d67      0x232 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_abbrev  0x00000f99      0x233 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_abbrev  0x000011cc       0x86 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .debug_abbrev  0x00001252       0x65 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .debug_abbrev  0x000012b7       0xb7 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_abbrev  0x0000136e      0x1b4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_abbrev  0x00001522       0xc8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_abbrev  0x000015ea       0xc8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_abbrev  0x000016b2       0xaa .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_abbrev  0x0000175c       0xe9 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_abbrev  0x00001845      0x1b4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_abbrev  0x000019f9      0x133 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_abbrev  0x00001b2c      0x1b4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_abbrev  0x00001ce0      0x133 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_abbrev  0x00001e13       0xc8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_abbrev  0x00001edb      0x133 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_abbrev  0x0000200e      0x1b4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_abbrev  0x000021c2      0x14f .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_abbrev  0x00002311      0x1c1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.debug_line     0x00000000     0x37ca
+ *(.debug_line)
+ .debug_line    0x00000000      0x31f .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_line    0x0000031f       0x53 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .debug_line    0x00000372      0x25a .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_line    0x000005cc       0xed .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_line    0x000006b9       0xc2 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_line    0x0000077b       0xc3 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_line    0x0000083e       0xc1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_line    0x000008ff      0x388 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_line    0x00000c87      0x121 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_line    0x00000da8      0x1c7 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_line    0x00000f6f       0x6a .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .debug_line    0x00000fd9      0x5a3 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_line    0x0000157c      0x5c3 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_line    0x00001b3f      0x3ce .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_line    0x00001f0d       0x5a .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .debug_line    0x00001f67       0x64 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .debug_line    0x00001fcb       0xdd .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_line    0x000020a8      0x16c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_line    0x00002214       0xd0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_line    0x000022e4       0xc7 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_line    0x000023ab       0xc1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_line    0x0000246c       0xef .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_line    0x0000255b      0x179 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_line    0x000026d4      0x386 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_line    0x00002a5a      0x174 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_line    0x00002bce      0x381 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_line    0x00002f4f       0xc5 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_line    0x00003014      0x389 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_line    0x0000339d      0x17c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_line    0x00003519      0x133 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_line    0x0000364c      0x17e .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.debug_frame    0x00000000     0x2ebc
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x118 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_frame   0x00000118       0xb0 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_frame   0x000001c8       0x78 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_frame   0x00000240       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_frame   0x000002b0       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_frame   0x00000320       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_frame   0x00000390      0x390 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_frame   0x00000720       0xd8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_frame   0x000007f8      0x130 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_frame   0x00000928      0x4cc .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_frame   0x00000df4      0x484 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_frame   0x00001278      0x288 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_frame   0x00001500       0x20 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .debug_frame   0x00001520       0x6c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_frame   0x0000158c      0x110 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_frame   0x0000169c       0x7c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_frame   0x00001718       0x7c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_frame   0x00001794       0x7c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_frame   0x00001810       0xc4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_frame   0x000018d4      0x110 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_frame   0x000019e4      0x390 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_frame   0x00001d74      0x110 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_frame   0x00001e84      0x390 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_frame   0x00002214       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_frame   0x00002284      0x390 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_frame   0x00002614      0x110 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_frame   0x00002724       0xb0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_frame   0x000027d4       0x88 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .debug_frame   0x0000285c       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000287c       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x0000289c       0x34 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_muldi3.o)
+ .debug_frame   0x000028d0       0x50 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o)
+ .debug_frame   0x00002920       0x30 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o)
+ .debug_frame   0x00002950       0x3c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+ .debug_frame   0x0000298c       0x3c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+ .debug_frame   0x000029c8       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(fixsfsi.o)
+ .debug_frame   0x000029e8       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsisf.o)
+ .debug_frame   0x00002a14       0x38 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(adddf3.o)
+ .debug_frame   0x00002a4c       0x3c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+ .debug_frame   0x00002a88       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsidf.o)
+ .debug_frame   0x00002ab4       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .debug_frame   0x00002ae0       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(truncdfsf2.o)
+ .debug_frame   0x00002b0c       0x3c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .debug_frame   0x00002b48       0x3c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00002b84       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00002ba4       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00002bcc       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00002bf8       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00002c20       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00002c40       0x50 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x00002c90       0x74 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00002d04       0x54 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00002d58       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .debug_frame   0x00002d78       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00002da0       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00002dcc       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00002df8       0x30 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00002e28       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002e54       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00002e74       0x48 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+
+.debug_str      0x00000000     0x3c43
+ *(.debug_str)
+ .debug_str     0x00000000      0x4cc .\CortexM0p\ARM_GCC_493\Debug\main.o
+                                0x510 (size before relaxing)
+ .debug_str     0x000004cc       0x5b .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+                                0x1ce (size before relaxing)
+ .debug_str     0x00000527      0x15d .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+                                0x303 (size before relaxing)
+ .debug_str     0x00000684       0xb8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+                                0x24c (size before relaxing)
+ .debug_str     0x0000073c       0xb7 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+                                0x24b (size before relaxing)
+ .debug_str     0x000007f3       0x95 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+                                0x252 (size before relaxing)
+ .debug_str     0x00000888       0x89 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+                                0x244 (size before relaxing)
+ .debug_str     0x00000911      0x53b .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+                                0x6f5 (size before relaxing)
+ .debug_str     0x00000e4c       0xf9 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+                                0x28b (size before relaxing)
+ .debug_str     0x00000f45      0x19a .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+                                0x382 (size before relaxing)
+ .debug_str     0x000010df      0x649 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+                                0x87a (size before relaxing)
+ .debug_str     0x00001728      0x646 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+                                0x88d (size before relaxing)
+ .debug_str     0x00001d6e      0x3e6 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+                                0x614 (size before relaxing)
+ .debug_str     0x00002154       0x24 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+                                0x272 (size before relaxing)
+ .debug_str     0x00002178       0x37 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+                                0x1b1 (size before relaxing)
+ .debug_str     0x000021af       0xd1 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+                                0x287 (size before relaxing)
+ .debug_str     0x00002280      0x103 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+                                0x2fa (size before relaxing)
+ .debug_str     0x00002383       0xfb .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+                                0x28b (size before relaxing)
+ .debug_str     0x0000247e       0xa7 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+                                0x23a (size before relaxing)
+ .debug_str     0x00002525       0x78 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+                                0x208 (size before relaxing)
+ .debug_str     0x0000259d      0x145 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+                                0x2e4 (size before relaxing)
+ .debug_str     0x000026e2      0x19d .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+                                0x3b0 (size before relaxing)
+ .debug_str     0x0000287f      0x4d7 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+                                0x773 (size before relaxing)
+ .debug_str     0x00002d56      0x15c .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+                                0x36a (size before relaxing)
+ .debug_str     0x00002eb2      0x40a .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+                                0x6a1 (size before relaxing)
+ .debug_str     0x000032bc       0x98 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+                                0x260 (size before relaxing)
+ .debug_str     0x00003354      0x538 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+                                0x7f1 (size before relaxing)
+ .debug_str     0x0000388c      0x1c4 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+                                0x3da (size before relaxing)
+ .debug_str     0x00003a50       0xe5 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+                                0x2c2 (size before relaxing)
+ .debug_str     0x00003b35      0x10e .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+                                0x2fe (size before relaxing)
+
+.debug_loc      0x00000000     0x3c50
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x9a .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_loc     0x0000009a      0x14f .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_loc     0x000001e9       0x1e .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_loc     0x00000207       0xa2 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_loc     0x000002a9       0xa2 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_loc     0x0000034b       0xa2 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_loc     0x000003ed      0x547 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_loc     0x00000934       0x7e .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_loc     0x000009b2      0x1b2 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_loc     0x00000b64      0x872 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_loc     0x000013d6      0xa81 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_loc     0x00001e57      0x85f .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_loc     0x000026b6       0x76 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_loc     0x0000272c       0x82 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_loc     0x000027ae       0x21 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_loc     0x000027cf       0x21 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_loc     0x000027f0       0x21 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_loc     0x00002811       0x68 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_loc     0x00002879       0x82 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_loc     0x000028fb      0x547 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_loc     0x00002e42       0x82 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_loc     0x00002ec4      0x547 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_loc     0x0000340b       0xa2 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_loc     0x000034ad      0x547 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_loc     0x000039f4       0x82 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_loc     0x00003a76       0x96 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_loc     0x00003b0c      0x144 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges   0x00000000      0xf18
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x50 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .debug_ranges  0x00000050       0x38 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .debug_ranges  0x00000088       0x28 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .debug_ranges  0x000000b0       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .debug_ranges  0x000000e8       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .debug_ranges  0x00000120       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .debug_ranges  0x00000158      0x148 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .debug_ranges  0x000002a0       0x48 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .debug_ranges  0x000002e8       0x78 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .debug_ranges  0x00000360      0x1d8 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .debug_ranges  0x00000538      0x198 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .debug_ranges  0x000006d0       0xd0 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .debug_ranges  0x000007a0       0x10 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .debug_ranges  0x000007b0       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .debug_ranges  0x000007e0       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .debug_ranges  0x00000850       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .debug_ranges  0x00000888       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .debug_ranges  0x000008c0       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .debug_ranges  0x000008f8       0x40 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .debug_ranges  0x00000938       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .debug_ranges  0x000009a8      0x148 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .debug_ranges  0x00000af0       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .debug_ranges  0x00000b60      0x148 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .debug_ranges  0x00000ca8       0x38 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .debug_ranges  0x00000ce0      0x148 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .debug_ranges  0x00000e28       0x70 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .debug_ranges  0x00000e98       0x50 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .debug_ranges  0x00000ee8       0x30 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 .\CortexM0p\ARM_GCC_493\Debug\main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .comment       0x00000000       0x71 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x32 .\CortexM0p\ARM_GCC_493\Debug\main.o
+ .ARM.attributes
+                0x00000097       0x32 .\CortexM0p\ARM_GCC_493\Debug\cymetadata.o
+ .ARM.attributes
+                0x000000c9       0x32 .\CortexM0p\ARM_GCC_493\Debug\Cm0plusStart.o
+ .ARM.attributes
+                0x000000fb       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(cyfitter_cfg.o)
+ .ARM.attributes
+                0x0000012d       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_BLUE.o)
+ .ARM.attributes
+                0x0000015f       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_GREEN.o)
+ .ARM.attributes
+                0x00000191       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(LED_RED.o)
+ .ARM.attributes
+                0x000001c3       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PWM_LED_STRIP.o)
+ .ARM.attributes
+                0x000001f5       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART.o)
+ .ARM.attributes
+                0x00000227       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_UART.o)
+ .ARM.attributes
+                0x00000259       0x22 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyBootAsmGnu.o)
+ .ARM.attributes
+                0x0000027b       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLib.o)
+ .ARM.attributes
+                0x000002ad       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyLFClk.o)
+ .ARM.attributes
+                0x000002df       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC.o)
+ .ARM.attributes
+                0x00000311       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INIT.o)
+ .ARM.attributes
+                0x00000343       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_INT.o)
+ .ARM.attributes
+                0x00000375       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_intSarClock.o)
+ .ARM.attributes
+                0x000003a7       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(ADC_IRQ.o)
+ .ARM.attributes
+                0x000003d9       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage1.o)
+ .ARM.attributes
+                0x0000040b       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(RefBuffer.o)
+ .ARM.attributes
+                0x0000043d       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PVref.o)
+ .ARM.attributes
+                0x0000046f       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(PIRAmplifierStage2.o)
+ .ARM.attributes
+                0x000004a1       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer_Int.o)
+ .ARM.attributes
+                0x000004d3       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Switch_Off_Timer.o)
+ .ARM.attributes
+                0x00000505       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer_Int.o)
+ .ARM.attributes
+                0x00000537       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Awake_Timer.o)
+ .ARM.attributes
+                0x00000569       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(MIC_DIGITAL.o)
+ .ARM.attributes
+                0x0000059b       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer.o)
+ .ARM.attributes
+                0x000005cd       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(Millis_Update_Timer_Int.o)
+ .ARM.attributes
+                0x000005ff       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(UART_SPI_UART.o)
+ .ARM.attributes
+                0x00000631       0x32 .\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.a(CyFlash.o)
+ .ARM.attributes
+                0x00000663       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000681       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000069f       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000006bd       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x000006db       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x00000707       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000733       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x0000075f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x0000078b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x000007b7       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x000007e3       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x0000080f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x0000083b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x00000867       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x00000893       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .ARM.attributes
+                0x000008bf       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(truncdfsf2.o)
+ .ARM.attributes
+                0x000008eb       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000909       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000935       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000961       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000097f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000009ab       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000009d7       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000a03       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000a2f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000a5b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000a87       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000ab3       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000adf       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000b0b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000b37       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000b63       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000b8f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000bbb       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000be7       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000c13       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000c3f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000c6b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000c97       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(.\CortexM0p\ARM_GCC_493\Debug\Microphone_v4.elf elf32-littlearm)
