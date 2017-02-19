@@ -1,6 +1,7 @@
 # Lighting-with-Cypress-PSoC-Analog-Coprocessor
 
-This project is made for the "Sensing the World" contest on www.hackster.io
+This project is made for the "Sensing the World" contest on www.hackster.io.
+<br>
 <br>
 See the full project here:
 <br>
